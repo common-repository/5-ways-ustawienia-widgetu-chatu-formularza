@@ -1,0 +1,21 @@
+.select2-container--default .select2-selection--multiple {
+    width: 300px !important;
+}
+
+#add_widget_id {
+    margin: 10px 0; padding: 0 10px;    background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
